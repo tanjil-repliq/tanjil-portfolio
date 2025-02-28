@@ -1,8 +1,6 @@
-# Personal Website - Shamim Bin Zahid
+# Personal Website - Md. Tanjil
 
 This website showcases my personal & professional details. Built with Next.js, React, TailwindCSS, it emphasizes accessibility, user experience, and performance. 
-
-![image](https://github.com/user-attachments/assets/b2679f11-ee82-421f-bf44-76ed7e0939fd)
 
 #### Key Features
 - **Accessibility-First Design**: Customizable accessibility menu with dark/light mode, text size, and reduced motion toggles
@@ -57,6 +55,6 @@ For more details on the code license, see:
 
 All personal data, including but not limited to biography, work history, and contact information, are proprietary and confidential. 
 
-© [2024] Shamim Bin Zahid . All rights reserved.
+© [2025] Md. Tanjil . All rights reserved.
 
 No license is granted to use, copy, modify, or distribute my personal information for any purpose without my explicit written permission. Unauthorized use, reproduction, or distribution of this personal information may violate applicable laws and could be subject to legal action.
