@@ -1,0 +1,218 @@
+{
+  "license": {
+    "text": "All personal data, including but not limited to biography, work history, and contact information, are proprietary and confidential. © All rights reserved to Md. Tanjil. No license is granted to use, copy, modify, or distribute my personal information for any purpose without my explicit written permission. Unauthorized use, reproduction, or distribution of this personal information may violate applicable laws and could be subject to legal action."
+  },
+  "intro": {
+    "label": "Intro",
+    "name": "Md. Tanjil",
+    "greetings": "Hi I'm Md. Tanjil 👋",
+    "tagline": "Software Engineer,  Bridging design and function for seamless UX.",
+    "location": "Based in Dhaka, Bangladesh",
+    "quote": "Great design deserves flawless execution."
+  },
+  "about": {
+    "label": "About Me",
+    "value": "I'm Tanjil, a passionate Software Engineer, specializing in frontend development with expertise in React.js, Next.js, React Native, and Expo. With a keen eye for design and a strong grasp of performance optimization. I build seamless, pixel-perfect, and interactive user experience. I am always open to feedback and eager to learn."
+  },
+  "actions": {
+    "show": true,
+    "resume": {
+      "show": true,
+      "label": "View Resume",
+      "url": "https://drive.google.com/file/d/1aeABUeaPf_VAVwHuUi0BRWEoAbV5f5BO/preview",
+      "download": "https://drive.usercontent.google.com/u/0/uc?id=1aeABUeaPf_VAVwHuUi0BRWEoAbV5f5BO&export=download"
+    },
+    "contact": {
+      "show": true,
+      "label": "Contact Me",
+      "address": "tanjil4work@gmail.com",
+      "url": "mailto:tanjil4work@gmail.com"
+    },
+    "experiences": {
+      "show": true
+    },
+    "skills": {
+      "show": true
+    },
+    "educations": {
+      "show": true
+    },
+    "achievements": {
+      "show": true
+    },
+    "contactCard": {
+      "show": true,
+      "label": "Contact Card"
+    },
+    "emailMe": {
+      "show": true,
+      "label": "Email Me"
+    }
+  },
+  "links": {
+    "label": "Social & Portfolio Links",
+    "values": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/iamtanjil/",
+        "icon": "in"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/iamtanjil",
+        "icon": "gh"
+      },
+      {
+        "label": "GitHub (Work)",
+        "url": "https://github.com/tanjil-repliq",
+        "icon": "gh"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/gangster_tanjil/",
+        "icon": "ig"
+      }
+    ]
+  },
+  "skills": {
+    "label": "Skills",
+    "values": [
+      {
+        "category": "Full-Stack Development",
+        "skills": [
+          "React.js",
+          "Next.js",
+          "React Native",
+          "Expo",
+          "JavaScript",
+          "TypeScript",
+          "Python",
+          "Django",
+          "Django REST Framework",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "REST API development",
+          "Authentication & Authorization",
+          "State management (MobX, TanStack Query)",
+          "Server-side rendering (SSR)",
+          "Static site generation (SSG)",
+          "Database design & optimization",
+          "CI/CD (EAS, GitHub Actions, Vercel)",
+          "Containerization (Docker, Docker Compose)",
+          "Cloud services (Firebase, Vercel)",
+          "Performance optimization"
+        ]
+      },
+      {
+        "category": "Software Development Life Cycle",
+        "skills": [
+          "Requirement analysis",
+          "Front-end development",
+          "Quality assurance",
+          "Team management",
+          "Agile methodologies",
+          "Documentation",
+          "Client interaction"
+        ]
+      },
+      {
+        "category": "Programming Languages",
+        "skills": ["C", "C++", "Python", "JavaScript", "HTML", "CSS"]
+      },
+      {
+        "category": "Frameworks & Tools",
+        "skills": [
+          "ReactJs",
+          "NextJs",
+          "Tailwind CSS",
+          "Django",
+          "Firebase",
+          "DevTools",
+          "Git"
+        ]
+      },
+      {
+        "category": "Soft Qualifications",
+        "skills": [
+          "Communication",
+          "Collaboration",
+          "Empathy",
+          "Critical Thinking",
+          "Problem Solving",
+          "Attention to Detail",
+          "Adaptability"
+        ]
+      }
+    ]
+  },
+  "experiences": {
+    "show": true,
+    "label": "Experiences",
+    "values": [
+      {
+        "workplace": "REPLIQ Limited",
+        "website": "https://repliq.dev",
+        "designation": "Software Developer",
+        "start": "Feb 2023",
+        "end": "Mar 2025",
+        "duration": "2 years",
+        "responsibilities": [
+          "Developed and maintained scalable full-stack applications using Next.js, React Native, Expo, Python, and Django.",
+          "Designed and implemented RESTful APIs ensuring secure authentication and optimized database performance.",
+          "Led the frontend development process, focusing on pixel-perfect UI, smooth user interactions, and performance optimization.",
+          "Collaborated closely with UI/UX designers to translate wireframes and prototypes into fully functional applications.",
+          "Integrated third-party APIs, payment gateways, and cloud services to enhance application functionality and scalability.",
+          "Implemented CI/CD pipelines using GitHub Actions, Vercel, and EAS for automated deployments and OTA updates.",
+          "Conducted code reviews, mentored junior developers, and ensured best practices in clean architecture and modular coding.",
+          "Worked in an Agile environment, participating in sprint planning, daily stand-ups, and retrospective meetings.",
+          "Led frontend and backend integration efforts, troubleshooting and resolving performance bottlenecks.",
+          "Managed project timelines, ensuring seamless collaboration between frontend, backend, and DevOps teams.",
+          "Contributed to hiring processes, interviewing and onboarding new developers for the frontend and full-stack teams."
+        ],
+        "shift": "Full Time",
+        "nature": "Hybrid",
+        "location": "Dhaka, Bangladesh"
+      }
+    ]
+  },
+  "education": {
+    "label": "Education",
+    "values": [
+      {
+        "institute": "European University of Bangladesh",
+        "degree": "BSc in Computer Science & Engineering",
+        "result": "CGPA 3.32 on a scale of 4.00",
+
+        "start": "Jan 2020",
+        "end": "Dec 2024",
+        "year": "2020 to 2024",
+        "website": "https://eub.edu.bd/",
+        "location": "Dhaka, Bangladesh"
+      },
+      {
+        "institute": "Pabna Govt College",
+        "degree": "Higher Secondary Certificate (HSC) in Science",
+        "result": "GPA 5.00 on a scale of 5.00",
+        "start": "",
+        "end": "",
+        "year": "Exam of 2019",
+        "website": "https://pabnagovernmentcollege.edu.bd/",
+        "location": "Dhaka, Bangladesh"
+      }
+    ]
+  },
+  "achievements": {
+    "label": "Achievements",
+    "values": [
+      {
+        "title": "Back to Back 3 time team of the month",
+        "event": "REPLIQ Limited"
+      },
+      {
+        "title": "Employee of the month July 2024",
+        "event": "REPLIQ Limited"
+      }
+    ]
+  }
+}

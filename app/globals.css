@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html.large-text {
+  font-size: 115%; 
+}
+
+.reduce-animation * {
+  transition-duration: 75ms !important;
+  animation-duration: 75ms !important;
+  animation-iteration-count: 1 !important;
+}
+
+.high-contrast *:not(img):not(svg) {
+  filter: contrast(110%);
+}
+
+.high-contrast img, .high-contrast svg {
+  filter: contrast(50%);
+}
+
+.high-contrast a, .high-contrast button {
+  outline: 2px solid #808080;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
