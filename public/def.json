@@ -19,8 +19,8 @@
     "resume": {
       "show": true,
       "label": "View Resume",
-      "url": "https://drive.google.com/file/d/1aeABUeaPf_VAVwHuUi0BRWEoAbV5f5BO/preview",
-      "download": "https://drive.usercontent.google.com/u/0/uc?id=1aeABUeaPf_VAVwHuUi0BRWEoAbV5f5BO&export=download"
+      "url": "https://drive.google.com/file/d/1GZc_gDkeTXA8CW7ZQEKyET-ITOrTVbR_/preview",
+      "download": "https://drive.usercontent.google.com/uc?id=1GZc_gDkeTXA8CW7ZQEKyET-ITOrTVbR_&export=download"
     },
     "contact": {
       "show": true,
@@ -64,7 +64,7 @@
       },
       {
         "label": "GitHub (Work)",
-        "url": "https://github.com/tanjil-repliq",
+        "url": "https://github.com/iamtnjl",
         "icon": "gh"
       },
       {

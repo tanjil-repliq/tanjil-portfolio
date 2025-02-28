@@ -7,11 +7,11 @@ import { toast, Toaster } from "sonner";
 
 export function ContactFormSection() {
   const [formData, setFormData] = useState({
-    "entry.673605360": "", // Name
-    "entry.2073457343": "", // Email
-    "entry.429667022": "", // Phone
-    "entry.146314014": "", // Company
-    "entry.34928778": "", // Comment
+    "entry.905651287": "", // Name
+    "entry.67897725": "", // Email
+    "entry.1373622373": "", // Phone
+    "entry.1436499421": "", // Company
+    "entry.1148140077": "", // Comment
   });
 
   const [error, setError] = useState(null);
@@ -34,7 +34,7 @@ export function ContactFormSection() {
     setLoading(true);
 
     const googleFormURL =
-      "https://docs.google.com/forms/d/e/1FAIpQLSff7etd50iLsYve_xks1GP9kkUhiHHmFc-bYLkOFceUc7pCcg/formResponse"; // Replace with your actual form action URL
+      "https://docs.google.com/forms/d/e/1FAIpQLSc7BttemiTKw6cg_OXFt6wZOaaa3bhE5pZdiGzet_TBBooUtQ/formResponse"; // Replace with your actual form action URL
 
     // Prepare URL-encoded data
     const urlEncodedData = new URLSearchParams();
@@ -68,18 +68,18 @@ export function ContactFormSection() {
         <InputField
           label="Your Name"
           type="text"
-          name="entry.673605360"
+          name="entry.905651287"
           placeholder="Start typing"
-          value={formData["entry.673605360"]}
+          value={formData["entry.905651287"]}
           onChange={handleChange}
           required
         />
         <InputField
           label="Company / Organization"
           type="text"
-          name="entry.2073457343"
+          name="entry.1436499421"
           placeholder="e.g. Google, Individual"
-          value={formData["entry.2073457343"]}
+          value={formData["entry.1436499421"]}
           onChange={handleChange}
           required
         />
@@ -87,27 +87,27 @@ export function ContactFormSection() {
           <InputField
             label="Email"
             type="email"
-            name="entry.146314014"
+            name="entry.67897725"
             placeholder="email@example.com"
-            value={formData["entry.146314014"]}
+            value={formData["entry.67897725"]}
             onChange={handleChange}
             required
           />
           <InputField
             label="Phone"
             type="tel"
-            name="entry.429667022"
+            name="entry.1373622373"
             placeholder="Optional"
-            value={formData["entry.429667022"]}
+            value={formData["entry.1373622373"]}
             onChange={handleChange}
           />
         </div>
         <InputField
           label="Message"
           type="text"
-          name="entry.34928778"
+          name="entry.1148140077"
           placeholder="Write your message"
-          value={formData["entry.34928778"]}
+          value={formData["entry.1148140077"]}
           onChange={handleChange}
           required
           textarea
